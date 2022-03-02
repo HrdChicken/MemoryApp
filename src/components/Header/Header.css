@@ -1,0 +1,33 @@
+*{
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.Links{
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    padding: 5px;
+    float: right;
+}
+
+.ButtonLink{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+}
+
+.ButtonIcon{
+    color: rgb(0, 0, 0);
+}
+
+.Links:hover{
+    color:rgb(255, 255, 255);
+    text-decoration: underline;
+}
